@@ -1,0 +1,7 @@
+[project]
+name = "finance-full-stack-web-app-using-flask-and-sql-master"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = ["redis","werkzeug==2.2","Flask-SQLAlchemy","Flask-Session","Flask","requests","flask-marshmallow","marshmallow-sqlalchemy","python-dotenv","pytest","mysql-connector"]
