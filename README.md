@@ -141,16 +141,7 @@ Containerization (optional): Docker
 This project is intended for learning purposes only.
 All rights reserved © Purvak Pal 2025.
 
-yaml
----
 
-# 🎯 Key Points:
-
-- No external cloud or badge links.
-- No third-party website links.
-- Only internal assets (`static/favicon/android-chrome-512x512.png`) used.
-- Clean, simple, highly professional — ideal for **GitHub**, **resume**, and **interviews**.
-- Divides everything logically — Install, Run, Features, Security, Future Scope, etc.
 
 
 
